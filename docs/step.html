@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en" translate="no" class="notranslate">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Language" content="en" />
+    <meta name="google" content="notranslate" />
+    <title>Lab Custom Agents</title>
+    <link rel="icon" href="img/favicon.ico" sizes="any" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Space+Grotesk:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.2/dist/confetti.browser.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
+    <link rel="stylesheet" href="css/step.css" />
+    <link rel="stylesheet" href="css/light-theme.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="header-content">
+        <a
+          href="https://markharrison.uk"
+          class="header-brand"
+          target="_blank"
+          rel="noopener"
+        >
+          <img src="img/logod.svg" alt="Logo" class="header-logo logo-dark" />
+          <img src="img/logol.svg" alt="Logo" class="header-logo logo-light" />
+          <span class="header-title">Mark Harrison</span>
+        </a>
+        <nav class="header-nav">
+          <button class="theme-toggle">&#9728;&#65039; Light</button>
+          <button class="nav-btn" id="prevBtn" disabled>&larr; Previous</button>
+          <button class="nav-btn" id="nextBtn">Next &rarr;</button>
+        </nav>
+      </div>
+    </header>
+
+    <div class="layout">
+      <aside class="sidebar">
+        <div class="sidebar-section">
+          <div class="sidebar-title">Lab Custom Agents</div>
+          <nav id="stepNav"></nav>
+        </div>
+      </aside>
+
+      <main class="main">
+        <article class="content">
+          <div id="markdown-content" class="markdown">
+            <div class="loading">Loading content</div>
+          </div>
+          <nav class="nav-footer">
+            <a href="#" class="nav-footer-btn disabled" id="prevLink"
+              >&larr; Previous</a
+            >
+            <a href="#" class="nav-footer-btn" id="nextLink">Next &rarr;</a>
+          </nav>
+        </article>
+      </main>
+    </div>
+
+    <script type="module" src="js/step.js"></script>
+  </body>
+</html>
