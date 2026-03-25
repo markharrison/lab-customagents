@@ -15,7 +15,8 @@ Before you begin, make sure you have the following:
   - Git
   - Node JS
   - Python (recommended - needed for certain Skills)
-- GitHub Copilot subscription
+- GitHub Copilot subscription is active
+- Playwright MCP is allowed (enterprise settings can disallow MCP use completly or restrict usage to certain MCP services)
 
 ## Overview
 
