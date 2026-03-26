@@ -47,7 +47,7 @@ body::before {
 
 /* Hero Section */
 .hero {
-    padding: 6rem 0 4rem;
+    padding: 6rem 0 2rem;
     text-align: center;
     position: relative;
 }
@@ -194,7 +194,7 @@ body::before {
 
 /* Workshop Parts */
 .workshop {
-    padding: 4rem 0;
+    padding: 2rem 0;
 }
 
 .parts-list {

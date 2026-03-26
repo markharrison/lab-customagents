@@ -473,5 +473,3 @@ Ideas to extend the lab on your own:
 - **Create a Quiz Bank** — Save generated questions to a `quiz-bank.json` file so they can be reused or combined into longer quizzes.
 
 ---
-
-Mark Harrison

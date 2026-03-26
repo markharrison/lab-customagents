@@ -21,10 +21,8 @@ Create you own Custom Agents.
 
 ## Feedback
 
-Thank you for participating! We hope you enjoyed it.
+Thank you for participating!
 
-We'd love to hear how the workshop went for you! If you have suggestions or feedback, please contact:
-
-mark.harrison@microsoft.com
+We'd love to hear how the workshop went for you! If you have suggestions or feedback, please contact: mark.harrison@microsoft.com
 
 <div id="confetti-btn-container"></div>

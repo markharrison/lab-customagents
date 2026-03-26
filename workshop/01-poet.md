@@ -324,5 +324,3 @@ Congratulations! 🎉 You have completed the lab. Here is what you built:
 4. **Iterate quickly** - because agents are Markdown, you can edit, test, and refine them in seconds.
 
 ---
-
-Mark Harrison

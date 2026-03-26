@@ -458,5 +458,3 @@ Ideas to extend the lab on your own:
 - **Persist a joke gallery** - Modify the Code Agent to append jokes to a `joke-gallery.html` file instead of overwriting, building up a collection over time.
 
 ---
-
-Mark Harrison

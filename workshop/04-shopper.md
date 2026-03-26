@@ -498,5 +498,3 @@ Ideas to extend the lab on your own:
 - **Other MCP Servers:** Browse the community catalog at [https://github.com/mcp](https://github.com/mcp)
 
 ---
-
-Mark Harrison
